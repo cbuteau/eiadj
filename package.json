@@ -1,0 +1,25 @@
+{
+  "name": "eiadj",
+  "version": "1.0.0",
+  "description": "Everyone is a DJ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scripts/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbuteau/eiadj.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cbuteau/eiadj/issues"
+  },
+  "homepage": "https://github.com/cbuteau/eiadj#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "inquirer": "^8.0.0"
+  }
+}
